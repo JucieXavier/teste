@@ -1,0 +1,1 @@
+print('arquivo dentro de repositório teste')
