@@ -1,1 +1,2 @@
 arquivo criado apenas para usar o git pull no repositorio local
+modificando de dentro do repositorio cental 
