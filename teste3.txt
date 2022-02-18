@@ -1,2 +1,4 @@
 arquivo criado para lauch no repositório origin
 criado local
+acrescentando algumas palavras 
+para testar o commit 
