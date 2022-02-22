@@ -2,3 +2,5 @@ arquivo criado para lauch no repositório origin
 criado local
 acrescentando algumas palavras 
 quarto commmit
+estou acrescentando esta linha em 22/02/2022 para verificar e analisar os commits
+
